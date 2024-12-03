@@ -6,11 +6,15 @@ This repository contains blade models developed and used by Gurit for supporting
 Provided are variations of the models with different internal configurations, which currently are one, two, and three shear webs.
 
 Currently available models
+
 	- [v] 98 m structural analysis offshore blade model w/ varying internal configurations.
 
 Model is available in formats:
+
 	- [v] Abaqus 		.inp
+	
 	- [x] ANSYS 		.cdb
+	
 	- [x] HyperWorks	
 	
 ABOUT THE MODELS
