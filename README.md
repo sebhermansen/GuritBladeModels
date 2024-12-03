@@ -35,6 +35,7 @@ To suggest improvements, other features, or for any other enquiries, please cont
 REFERENCES
 -------------------------------------
 [1] Hermansen SM, Borstnar G, Buhl T, Lund E (2025) The G98m: A detailed open-source modern offshore wind turbine blade structural model with optimization applications. Structural and Multidisciplinary Optimization. Under Review
+
 [2] DNV-GL (2015) DNVGL-ST-0376. Tech. rep., DNV GL Group AS
 
 
