@@ -3,14 +3,14 @@ MIT License
 Copyright (c) 2024 Gurit
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
-of this finite element model and associated documentation files (jointly, the ‚ÄúModel‚Äù), 
+of this finite element model and associated documentation files (jointly, the ìModelî), 
 to deal in the Model without restriction, including without limitation the rights 
 to use, copy, modify, merge, publish, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Model.
 
-THE MODEL IS PROVIDED ‚ÄúAS IS‚Äù, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+THE MODEL IS PROVIDED ìAS ISî, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
@@ -18,8 +18,8 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE MODEL OR THE USE OR OTHER DEALINGS IN THE MODEL.
 
 When referred in journal papers, articles, or other written materials the Model 
-shall be referred to as ‚Äúthe Gurit model‚Äù and the paper ‚ÄúThe Gurit98m: A detailed 
-open-source modern offshore wind turbine blade structural model with applications‚Äù 
+shall be referred to as ìthe Gurit modelî and the paper ìThe Gurit98m: A detailed 
+open-source modern offshore wind turbine blade structural model with applicationsî 
 written by S.M. Hermansen, G. Borstnar, E. Lund and T. Buhl (include link) shall be 
 also referenced. 
 
