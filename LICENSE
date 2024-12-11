@@ -1,0 +1,30 @@
+MIT License
+
+Copyright (c) 2024 Gurit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this finite element model and associated documentation files (jointly, the “Model”), 
+to deal in the Model without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Model.
+
+THE MODEL IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE MODEL OR THE USE OR OTHER DEALINGS IN THE MODEL.
+
+When referred in journal papers, articles, or other written materials the Model 
+shall be referred to as “the Gurit model” or "Gurit98m" and the paper “The Gurit98m: A detailed 
+open-source modern offshore wind turbine blade structural model with optimization applications” 
+written by S.M. Hermansen, G. Borstnar, E. Lund and T. Buhl (include link) shall be 
+also referenced. 
+
+Any modifications made to the original Model must be explicitly declared in the event 
+of publication or disclosure of the modified Model.
+
+Any enhancements, additions, optimizations, errors, or bugs should be communicated to 
+Gurit through the following email address: dkrin.blademodel@gurit.com 

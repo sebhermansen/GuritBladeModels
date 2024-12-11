@@ -1,0 +1,7 @@
+@misc{GuritBladeModels_2024,
+  author = {Hermansen, Sebastian M. and Borstnar, Gregor and Buhl, Thomas},
+  license = {MIT License},
+  title = {{Github repo: GuritBladeModels}},
+  howpublished = {\url{https://github.com/sebhermansen/GuritBladeModels}},
+  year = {2024}
+}
