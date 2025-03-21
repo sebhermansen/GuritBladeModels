@@ -13,7 +13,7 @@ Model is available in formats:
 
 	- [v] Abaqus 		.inp
 	
-	- [x] ANSYS 		.cdb
+	- [v] ANSYS 		.inp
 	
 	
 ABOUT THE MODELS
@@ -35,6 +35,11 @@ The model contains twelve extreme load cases, which it typically used in the det
 Baseline for ensuring design integrity has been the DNV guidelines [2].
 
 To suggest improvements, other features, or for any other enquiries, please contact dkrin.blademodel@gurit.com.
+
+ABOUT THE ANSYS FORMAT
+-------------------------------------
+The ANSYS format is provided in the ".inp"-format. Separate files are provided for each load case, which has to be copied manually into the input file.
+A folder is provided where each load case is placed into the baseline model.inp-file.
 
 REFERENCES
 -------------------------------------
