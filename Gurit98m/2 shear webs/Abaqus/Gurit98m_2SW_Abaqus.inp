@@ -65699,12 +65699,27 @@
 *End Assembly
 ** 
 ** MATERIALS
-** 
+**  
 *Material, name=ADHESIVE_TYP
 *Density
  1.2e-09,
 *Elastic
 2750., 0.35
+*Material, name=CFRP_UD
+*Density
+ 1.5E-09,
+*Elastic, type=LAMINA
+125000., 8000., 0.3, 5000., 3080., 5000.
+*Material, name=GFRP_BIAX
+*Density
+ 1.87E-09,
+*Elastic, type=LAMINA
+24000.,   24000., 0.11,    3600.,    3500.,    3500.
+*Material, name=GFRP_UD
+*Density
+ 1.87E-09,
+*Elastic, type=LAMINA
+38000.,  9000., 0.28,  3600.,  3500.,  3600.
 *Material, name=KERDYN_GR_150_UL
 *Density
  1.5e-10,
@@ -65720,21 +65735,6 @@
  1.87e-09,
 *Elastic, type=LAMINA
  28379.1, 11303.1,    0.29,  6876.4,   3340.,   3340.
-*Material, name=CFRP_UD
-*Density
- 1.5E-09,
-*Elastic, type=LAMINA
-125000., 8000., 0.3, 5000., 3080., 5000.
-*Material, name=GFRP_UD
-*Density
- 1.87E-09,
-*Elastic, type=LAMINA
-38000.,  9000., 0.28,  3600.,  3500.,  3600.
-*Material, name=GFRP_BIAX
-*Density
- 1.87E-09,
-*Elastic, type=LAMINA
-24000.,   24000., 0.11,    3600.,    3500.,    3500.
 ** 
 ** BOUNDARY CONDITIONS
 ** 
