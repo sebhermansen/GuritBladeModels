@@ -65731,10 +65731,10 @@
 *Elastic, type=LAMINA
  244.415, 244.415,     0.4, 71.7144, 79.3187, 71.7144
 *Material, name=TRIAX_GFRP
-*Density
- 1.87e-09,
-*Elastic, type=LAMINA
- 28379.1, 11303.1,    0.29,  6876.4,   3340.,   3340.
+*DENSITY
+ 1.833E-09,
+*ELASTIC, TYPE=LAMINA
+ 26472, 10073,    0.43,  5873,   3500.,   4340.
 ** 
 ** BOUNDARY CONDITIONS
 ** 
